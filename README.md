@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/favicon.svg" width="96" height="96" alt="Logo PEA Tools" />
+</p>
+
 # PEA Tools
 
 Outils d'analyse, simulateur d'investissement programmé (DCA) et comparateur d'ETF pour le Plan d'Épargne en Actions (PEA).
